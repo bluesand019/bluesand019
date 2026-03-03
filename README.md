@@ -1,16 +1,35 @@
-## Hi there 👋
+Hey there!
 
-<!--
-**bluesand019/bluesand019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kowsor, an Aspiring Software Engineer, AI Enthusiast and a Competitive Programmer.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning **React & Backend Development (Python)**
+- Interested in **Artificial Intelligence & Neural Networks**
+- Competitive Programming enthusiast (Codeforces, LeetCode)
+- Exploring research topics in **Genetic Algorithms & NAS**
+- Always learning and improving
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- JavaScript
+- Python
+
+**Frontend**
+- React
+- HTML
+- CSS
+- Bootstrap
+
+**Backend (Learning)**
+- Python (Django / Flask)
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/kowsordip/
