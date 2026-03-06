@@ -6,7 +6,7 @@ I'm Kowsor, an Aspiring Software Engineer, AI Enthusiast and a Competitive Progr
 
 - Currently learning **React & Backend Development (Python)**
 - Interested in **Artificial Intelligence & Neural Networks**
-- Competitive Programming enthusiast (Codeforces, LeetCode)
+- Competitive Programmer (Specialist in Codeforces)
 - Exploring research topics in **Genetic Algorithms & NAS**
 - Always learning and improving
 
